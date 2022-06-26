@@ -1,4 +1,4 @@
-## Simple Laravel Auction Store
+# Laravel Simple Auction Store
 
 ## Before running app 
 Don't forget modify **.env** file
