@@ -6,7 +6,7 @@ Install packages **composer install**
 Generate key **php artisan key:generate**
 
 ## If you want run this app with fake data run
-**php artisan migrate:fresh --seed**
+**php artisan migrate --seed**
 
 ## If you want run this app with empty tables run
 **php artisan migrate**
