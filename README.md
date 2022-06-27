@@ -14,4 +14,6 @@ Generate key **php artisan key:generate**
 ## For running app
 **php artisan serve**
 
+## For editing data you must register first
+
 
